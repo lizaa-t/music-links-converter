@@ -8,6 +8,8 @@ packages = [{include = "music_links_converter"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-telegram-bot = "^20.4"
+requests = "^2.31.0"
 
 
 [build-system]
